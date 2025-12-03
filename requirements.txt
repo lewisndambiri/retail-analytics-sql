@@ -1,0 +1,7 @@
+# Data manipulation
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Database connection & ORM
+sqlalchemy>=1.4.0
+psycopg2-binary>=2.9.0
